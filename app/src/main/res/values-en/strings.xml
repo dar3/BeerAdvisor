@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beer Advisor</string>
+    <string name="find_beer">Find beer!</string>
+    <string name="brands">You didn\'t choose any beer!</string>
+    <string name="light">light</string>
+    <string name="amber">amber</string>
+    <string name="brown">brown</string>
+    <string name="dark">dark</string>
+    <string name="desc">beer_image</string>
+</resources>

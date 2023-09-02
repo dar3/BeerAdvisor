@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Doradca Piwny</string>
+    <string name="find_beer">Odszukaj piwo!</string>
+    <string name="brands">Nie wybrano żadnego piwa!</string>
+    <string name="light">jasne</string>
+    <string name="amber">bursztynowe</string>
+    <string name="brown">brązowe</string>
+    <string name="dark">ciemne</string>
+    <string name="desc">piktograma_piwa</string>
+
+
+    <string-array name="beer_colors">
+        <item> @string/light </item>
+        <item> @string/amber </item>
+        <item> @string/brown </item>
+        <item> @string/dark </item>
+
+
+<!--        <item> jasne</item>-->
+<!--        <item> bursztynowe</item>-->
+<!--        <item>  brązowe</item>-->
+<!--        <item>  ciemne</item>-->
+    </string-array>
+
+</resources>

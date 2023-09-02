@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пивний Помічник</string>
+    <string name="find_beer">Знайди пиво!</string>
+    <string name="brands">Ви не обрали пиво!</string>
+    <string name="light">світле</string>
+    <string name="amber">бурштинове</string>
+    <string name="brown">коричневе</string>
+    <string name="dark">темне</string>
+    <string name="desc">зображення_пива</string>
+</resources>
